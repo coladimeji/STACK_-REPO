@@ -1,2 +1,2 @@
-# STACK_-REPO
+# STACK_REPO
 wallets
